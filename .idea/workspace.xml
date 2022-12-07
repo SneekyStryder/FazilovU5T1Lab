@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="192830e8-31cb-4f01-a4ec-b1fdaff5a1b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PersonRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrismRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Spinner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpinnerRunner.java" afterDir="false" />
+    <list default="true" id="192830e8-31cb-4f01-a4ec-b1fdaff5a1b2" name="Changes" comment="period end">
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CircleRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Prism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prism.java" afterDir="false" />
     </list>
@@ -36,14 +36,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/BT_3W2_28/IdeaProjects/FazilovU5T1Lab",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Application.PersonRunner">
+}]]></component>
+  <component name="RunManager" selected="Application.StudentRunner">
+    <configuration name="CircleRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CircleRunner" />
+      <module name="FazilovU5T1Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DiceRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DiceRunner" />
       <module name="FazilovU5T1Lab" />
@@ -51,22 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PersonRunner" />
-      <module name="FazilovU5T1Lab" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrismRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrismRunner" />
-      <module name="FazilovU5T1Lab" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpinnerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SpinnerRunner" />
+    <configuration name="StudentRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentRunner" />
       <module name="FazilovU5T1Lab" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,9 +68,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PersonRunner" />
-        <item itemvalue="Application.SpinnerRunner" />
-        <item itemvalue="Application.PrismRunner" />
+        <item itemvalue="Application.StudentRunner" />
+        <item itemvalue="Application.CircleRunner" />
         <item itemvalue="Application.DiceRunner" />
       </list>
     </recent_temporary>
