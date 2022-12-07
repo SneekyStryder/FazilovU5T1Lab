@@ -9,8 +9,17 @@ public class Prism {
         this.height = height;
     }
 
+    public int getVolume() {
+        return length * width * height;
+    }
+
+    public int getSurfaceArea() {
+        int perimeter = 2 * length + 2 * width;
+        return perimeter * height + 2 * (length * width);
+    }
+
     public String getPrismDimensions() {
-        return "Length = " + length + ",\nWidth = " + width + ",\nHeight = 10";
+        return "Length = " + length + ",\nWidth = " + width + ",\nHeight = " + height;
     }
 
     public void setHeight(int height) {
